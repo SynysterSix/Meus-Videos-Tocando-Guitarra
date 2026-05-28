@@ -14,4 +14,4 @@ Este é um projeto pessoal desenvolvido como um desafio prático de Front-End pa
 - JavaScript Puro (Vanilla JS)
 
 ## 🌐 Link do Projeto
-Você pode assistir aos vídeos rodando direto no navegador através do link: https://synystersix.github.io/Meus-V-deos-Tocando-Guitarra/
+Você pode assistir aos vídeos rodando direto no navegador através do link: https://synystersix.github.io/Meus-Videos-Tocando-Guitarra/
